@@ -13,7 +13,7 @@
 8. [Database Migrations](https://github.com/launchdarkly/featureflags/blob/master/8%20-%20Database%20Migrations.md)
 9. [Implementation](https://github.com/launchdarkly/featureflags/blob/master/9%20-%20Implementation.md)
 
-Welcome to the new home of our Feature Flagging Guide!
+Welcome to the new home of our Feature Flagging Guide.
 
 LaunchDarkly serves 4 billion feature flags daily to help software teams build better software, faster. LaunchDarkly gives you the power to to separate feature rollout from code deployment and manage feature flags at scale. Ultimately, you can deliver faster, more personalized software with less risk.
 
@@ -61,9 +61,8 @@ Our community is open to anyone with interest in feature flagging or dark launch
 For all known issues, visit the LaunchDarkly [support page](https://support.launchdarkly.com/) for help.
 
 ## Contributions
-Our SDKs are all open source, and we encourage pull-requests and other contributions from the community. 
+Our guide and SDKs are all open source, and we encourage pull-requests and other contributions from the community. If you have a suggestion or correction for our guide feel free to commit a pull request on this repo and it will be reviewed.
 
 When contributing please ensure that you do the following:
- 1. Read through our [Contributor’s Guide](http://docs.launchdarkly.com/docs/sdk-contributors-guide) before submitting any pull requests.
+ 1. Read through our [Contributor’s Guide](http://docs.launchdarkly.com/docs/sdk-contributors-guide) before submitting any SDK pull requests.
  2. Create a new branch for each different change.
- 3. Maintain the same style and formatting as existing SDKs.
