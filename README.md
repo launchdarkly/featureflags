@@ -2,8 +2,7 @@
   <img src="http://blog.launchdarkly.com/wp-content/uploads/2016/02/ld_logo_blue.png">
 </p>
 
-<p align="center">
-<h3>Table of Contents</h3>
+### Table of Contents
 1. [Introduction](https://github.com/launchdarkly/featureflags/blob/master/1%20-%20Introduction.md)
 2. [Uses](https://github.com/launchdarkly/featureflags/blob/master/2%20-%20Uses.md)
 3. [Getting Started](https://github.com/launchdarkly/featureflags/blob/master/3%20-%20Getting%20Started.md)
