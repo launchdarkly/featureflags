@@ -12,7 +12,8 @@
 7. [Blue-Green Deployments](https://github.com/launchdarkly/featureflags/blob/master/7%20-%20Blue-Green%20Deployments.md)
 8. [Database Migrations](https://github.com/launchdarkly/featureflags/blob/master/8%20-%20Database%20Migrations.md)
 9. [Implementation](https://github.com/launchdarkly/featureflags/blob/master/9%20-%20Implementation.md)
-<p>
+
+Welcome to the new home of our Feature Flagging Guide!
 
 LaunchDarkly serves 4 billion feature flags daily to help software teams build better software, faster. LaunchDarkly gives you the power to to separate feature rollout from code deployment and manage feature flags at scale. Ultimately, you can deliver faster, more personalized software with less risk.
 
