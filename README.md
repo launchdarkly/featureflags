@@ -1,6 +1,20 @@
 <p align="center">
   <img src="http://blog.launchdarkly.com/wp-content/uploads/2016/02/ld_logo_blue.png">
 </p>
+
+<p align="center">
+<h3>Table of Contents</h3>
+1. [Introduction](https://github.com/launchdarkly/featureflags/blob/master/1%20-%20Introduction.md)
+2. [Uses](https://github.com/launchdarkly/featureflags/blob/master/2%20-%20Uses.md)
+3. [Getting Started](https://github.com/launchdarkly/featureflags/blob/master/3%20-%20Getting%20Started.md)
+4. [Cleaning Up](https://github.com/launchdarkly/featureflags/blob/master/4%20-%20Cleaning%20Up.md)
+5. [Best Practices](https://github.com/launchdarkly/featureflags/blob/master/5%20-%20Best%20Practices.md)
+6. [Flags vs Branching](https://github.com/launchdarkly/featureflags/blob/master/6%20-%20Flags%20vs%20Branching.md)
+7. [Blue-Green Deployments](https://github.com/launchdarkly/featureflags/blob/master/7%20-%20Blue-Green%20Deployments.md)
+8. [Database Migrations](https://github.com/launchdarkly/featureflags/blob/master/8%20-%20Database%20Migrations.md)
+9. [Implementation](https://github.com/launchdarkly/featureflags/blob/master/9%20-%20Implementation.md)
+<p>
+
 LaunchDarkly serves 4 billion feature flags daily to help software teams build better software, faster. LaunchDarkly gives you the power to to separate feature rollout from code deployment and manage feature flags at scale. Ultimately, you can deliver faster, more personalized software with less risk.
 
 ## About LaunchDarkly
