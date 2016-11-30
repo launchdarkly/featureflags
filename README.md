@@ -35,7 +35,7 @@ LaunchDarkly provides feature flag SDKs for
 * [Node.JS](http://docs.launchdarkly.com/docs/node-sdk-reference)
 * [.NET](http://docs.launchdarkly.com/docs/dotnet-sdk-reference)
 * [Ruby](http://docs.launchdarkly.com/docs/ruby-sdk-reference)
-* [Python Twisted](http://docs.launchdarkly.com/docs/python-twisted)
+* [Python Twisted](http://docs.launchdarkly.com/docs/python-twisted-sdk-reference)
 * [iOS](http://docs.launchdarkly.com/docs/ios-sdk-reference)
 * [Android](http://docs.launchdarkly.com/docs/android-sdk-reference)
 
