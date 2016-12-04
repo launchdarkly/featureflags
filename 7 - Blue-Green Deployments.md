@@ -1,4 +1,4 @@
-# Utilizing Multiple Production Environments
+## Handling risk with proper release management.
 #### Using feature flags for granular release control and risk mitigation for blue-green deployments
 
 Blue-green deployments have long been a proven technique to mitigate risk in software releases. By adding feature flags, developers are ushering in a new era of blue-green deployments, one with unprecedented granular control over feature releases. This article discusses how to effectively integrate feature flags into your blue-green deployment process.
