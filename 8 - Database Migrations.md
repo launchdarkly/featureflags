@@ -1,3 +1,4 @@
+## Use feature flags to safely migrate databases.
 There comes a time in every developer’s life when you realize you need to migrate from one database to another. Maybe you started off with MongoDB, and it was great while your app was small, but it just can’t handle the load now that your made it to the big leagues. Maybe its time you bit the bullet and put that huge events database in DynamoDB (or Cassandra, or…).
 
 Moving databases is no small task, but it doesn’t need to be so risky.
