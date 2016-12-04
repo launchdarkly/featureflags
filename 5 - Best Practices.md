@@ -1,4 +1,4 @@
-# Recommendations
+## Skip learning the hard way with our best practices.
 Flags are helpful when you think about how they help YOU and your organization. Feature flags should be first-class objects, not just sit in a config file that only developers can access.
 
 #### Choose the Right Level of Flagging
