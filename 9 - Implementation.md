@@ -1,4 +1,4 @@
-#Implementation Tips
+## Some final considerations before you implement.
 Here are some tips to help you integrate feature flagging into your development process.
 
 Before you select a feature flagging method, you should:
