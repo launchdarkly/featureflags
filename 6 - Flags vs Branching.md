@@ -1,4 +1,4 @@
-# Feature Flags vs Feature Branching
+## Branch better with feature flag driven development.
 Feature branching allows developers to effectively collaborate around a central code base by keeping all changes to a specific feature in its own branch. With the addition of feature flags, feature branching becomes even more powerful and faster by separating feature release management from code deployment.
 
 #### The Pains of Long-Lived Branching
