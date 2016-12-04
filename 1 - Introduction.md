@@ -1,4 +1,4 @@
-# Feature Flag Introduction
+## An introduction to feature flagging software.
 Feature flags give a software organization the power to reduce risk, iterate quicker, and gain more control. Feature flags allow you to decouple feature rollout from code deployment. This separation allows you unprecedented control of who sees what when, independent of release. And the “you” can be anyone in your organization - from developers, ops, designers, product managers, or marketers. Allowing control over a release unlocks the true power of your software.
 
 This guide will show you how you can start using feature flags in your organization. We’ll give step by step instructions on how feature flags fit into your process. We’ll cover how feature flags can be combined with blue/green deployments and branching. Even if you’re already using feature flags, we discuss advanced use cases like database migration that you might find valuable.
