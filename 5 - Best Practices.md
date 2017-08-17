@@ -15,7 +15,7 @@ A good rule of thumb is if a feature is always on or off, then the flag should b
 Along these same lines, it’s helpful to log who has changed feature flags. This can help you solve who the question of “who made this change?” Once you know you can talk to them to figure out good next steps so that you can align everyone’s goals for the feature. There’s no wasted time, you already know who has rights (by organization, team, project, etc.).
 
 #### Give Access to Non-Technical Users
-Feature flags are most effective when they can put put in the hands of non-technical users (Product team, QA team, etc.). Figure out how to get this control into their hands as well as developers. This reduces a major bottleneck in feature control. This can also have an incredible effect on the Product-Engineering relationship and lead to more unified [rollout thinking](https://launchdarkly.com/casestudies/upserve.html).
+Feature flags are most effective when they can be put in the hands of non-technical users (Product team, QA team, etc.). Figure out how to get this control into their hands as well as developers. This reduces a major bottleneck in feature control. This can also have an incredible effect on the Product-Engineering relationship and lead to more unified [rollout thinking](https://launchdarkly.com/casestudies/upserve.html).
 
 #### Control Access to Flags
 Many companies choose to give different members in their team different visibility and access to certain environments or groups of flags. One example would be to lock changes in the production environment from anyone in with a temporary login or anyone on the support team. When it comes to the rights to change a subscription, that can be real money. Potential to be destructive.
