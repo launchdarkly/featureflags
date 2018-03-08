@@ -9,7 +9,7 @@ Just because you are careful about flagging a feature doesn’t mean you’ve be
 
 Also consider what will happen with turnover. If flags aren’t labeled well, someone could mistakenly dial up flags controlling infrastructure and cause severe disruptions and outages.
 
-A good rule of thumb is if a feature is always on or off, then the flag should be removed. For example, if a flag is added to ramp up between two systems or put out something with hypothesis-driven development, you should remove a flag once the rollout is complete. Its served its purpose.
+A good rule of thumb is if a feature is always on or off, then the flag should be removed. For example, if a flag is added to ramp up between two systems or put out something with hypothesis-driven development, you should remove a flag once the rollout is complete. It's served its purpose.
 
 #### Set Up Logging
 Along these same lines, it’s helpful to log who has changed feature flags. This can help you solve who the question of “who made this change?” Once you know you can talk to them to figure out good next steps so that you can align everyone’s goals for the feature. There’s no wasted time, you already know who has rights (by organization, team, project, etc.).
