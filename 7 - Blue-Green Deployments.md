@@ -7,7 +7,7 @@ At its core, a blue-green deployment is a release practice that maintains two pr
 
 The old way of blue-green deployments was more of an all-or-none approach. Traffic was funneled in a binary fashion, all to blue or all to green. It was also focused around timing: you could determine when you wanted to switch traffic and then switch back if something went wrong.
 
-![bluegreen](https://launchdarkly.com/images/guide/bluegreen.jpg "blue-green deployment")
+![bluegreen](https://featureflags.io/wp-content/uploads/2018/03/bluegreen.jpg "blue-green deployment")
 
 Blue-green deployments, therefore, are a macro level of risk mitigation. You are not focusing on testing smaller features, like a new search bar, and it’s usually something controlled by your operations team, not development.
 
@@ -15,7 +15,7 @@ With this blue/green deployment methodology, we are placing the burden of risk m
 
 To get more refined release granularity, you can complement your blue/green deployment with [feature flags](http://blog.launchdarkly.com/feature-flag-driven-development/). These flags are conditionals (if/else statements) that compartmentalize code at the ‘feature level’, meaning you can control the display of particular features instead of relying on separate application versions.
 
-![bluegreenff](https://launchdarkly.com/images/guide/bluegreenfeatureflags.jpg "blue-green feature flags")
+![bluegreenff](https://featureflags.io/wp-content/uploads/2018/03/bluegreenfeatureflags.jpg "blue-green feature flags")
 
 Using feature flags, you could still manage your traffic with a load balancer with the added benefit of gradually rolling out new features to your users. For example, you could switch from green to blue with the feature flag turned “off” in blue. Then, once traffic was flowing to blue, you can turn on the feature flag and gradually release the feature to 1%, 5%, 20%… of your users until you were satisfied with the performance and feedback.
 
