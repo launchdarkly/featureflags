@@ -5,11 +5,11 @@ This guide will show you how you can start using feature flags in your organizat
 
 Feature flagging is a method by which developers wrap a new feature in an if/then statement to gain more control over its release. By wrapping a feature with a flag, it’s possible to isolate its effect on the system and to turn that flag on or off independent from a deployment. This effectively separates feature rollout from code deployment. Feature flagging is a core component of continuous delivery that empowers software organizations to release quickly and reliably.
 
-![Anatomy](https://launchdarkly.com/images/guide/anatomy.jpg "Feature Flag Anatomy")
+![Anatomy](https://featureflags.io/wp-content/uploads/2018/03/anatomy.jpg "Feature Flag Anatomy")
 
 Martin Fowler, Jez Humble, and Facebook’s Engineering team are widely credited with introducing the concept of feature flagging (also called feature toggling or feature switching). Within the context of continuous delivery, feature flags provided the foundation for a framework that would allow developers to release software faster and with less risk and more control.
 
-![Flags or Toggles](https://launchdarkly.com/images/guide/flags-or-toggles.jpg "Feature Flags or Toggles")
+![Flags or Toggles](http://featureflags.io/wp-content/uploads/2018/03/flags-or-toggles.jpg "Feature Flags or Toggles")
 
 Here are some companies who actively practice feature flag-driven development:
 * [Apiary](https://launchdarkly.com/casestudies/apiary.html)
