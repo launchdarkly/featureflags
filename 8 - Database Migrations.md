@@ -7,7 +7,7 @@ One of the common misconceptions is that feature flags are only useful for new f
 
 Note that the example used here assumes a data model that is never updated–new events are written, and existing events are read, but an event is never updated. The basic idea still works with data that can be updated, but it is a bit more complicated.
 
-![featureflaggingdb](https://launchdarkly.com/images/guide/featureflaggingdb.jpg "Feature Flagging Your Database")
+![featureflaggingdb](https://featureflags.io/wp-content/uploads/2018/03/featureflaggingdb.jpg "Feature Flagging Your Database")
 
 #### The Plan
 
