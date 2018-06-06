@@ -9,13 +9,13 @@ To help coordinate development, engineering teams have adopted distributed versi
 
 One of the shortcomings of feature branching is that feature release management is still tied to code deployments. In isolation, feature branching forces engineers to manage software delivery within the confines of their version control system. Non-technical users can’t (and shouldn’t) manage feature visibility and distribution for customers from GitHub. It is currently not possible for developers to turn features on or off in real-time, as a way to manage risk or gradually introduce a new feature.
 
-![Without Flags](https://launchdarkly.com/images/guide/featurebranchingwithout.jpg "Feature Branching Without Flags")
+![Without Flags](https://featureflags.io/wp-content/uploads/2018/03/featurebranchingwithout.jpg "Feature Branching Without Flags")
 
 This is where the introduction of [feature flags](https://launchdarkly.com/featureflags.html) makes feature branching exceptionally powerful. Feature flagging allows developers to take full control of their feature lifecycles independent of code deployments. Application features can be enabled or disabled without requiring code to be reverted or redeployed.
 
 This process is called [feature flag driven development](http://blog.launchdarkly.com/feature-flag-driven-development/), where continuous delivery teams manage feature rollouts separate from code deployments.
 
-![With Flags](https://launchdarkly.com/images/guide/featurebranchingwithflags.jpg "Feature Branching With Flags")
+![With Flags](https://featureflags.io/wp-content/uploads/2018/03/featurebranchingwithflags.jpg "Feature Branching With Flags")
 
 #### Benefits
 Feature flagging allows developers to take full control of their feature lifecycles without depending on code deployments. When you merge a feature branch into master (production), it is already wrapped in a feature flag. This allows you to deploy the feature “off” and then gradually roll it out to users. It also allows you to quickly “kill” the feature if it is not working well, without having to redeploy. Other benefits include:
