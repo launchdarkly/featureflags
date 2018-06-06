@@ -70,7 +70,7 @@ Once you have rolled out both the reads and writes to all users, you should migr
 
 You can now turn off the read and write flags for the old database, remove all references to all four flags in your code, and you are left with just the new database.
 
-![ffdatabasemigration](https://launchdarkly.com/images/guide/ffdatabasemigration.jpg "Feature Flag Database Migration")
+![ffdatabasemigration](https://featureflags.io/wp-content/uploads/2018/03/ffdatabasemigration.jpg "Feature Flag Database Migration")
 
 #### This Is Not Fiction
 
