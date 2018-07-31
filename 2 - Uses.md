@@ -27,7 +27,12 @@ It’s often more simple and certainly more scalable to control subscription pla
 It’s likely that you want to show expert users and beginner users different features of your product entirely. For instance, a new and a “power” user have different needs from your product. You want to make them both happy. Without a compromise, you can give two different experiences. Feature flags make it easier to tailor your application to your user base.
 
 #### Maintenance Mode
-Put portions (or your entire application) into maintenance mode. Read more here about how LaunchDarkly handles whole-site maintenance, whole-feature maintenance and per-feature maintenance modes.
+Put portions of or your entire application into maintenance mode. Read more [here](https://launchdarkly.com/blog/how-launchdarkly-uses-feature-flags-for-rolling-maintenance-modes/) about how LaunchDarkly handles whole-site maintenance, whole-feature maintenance and per-user feature maintenance modes.
 
 #### Sunset
-All features eventually go to the bit bucket in the sky. If your system has been around for a while, you start to accumulate old features. And there’s a hidden costs to this. It’s expensive to have around hidden features, as you have to QA and make sure they aren’t conflicting with new features, Have to make sure these old features work on new platforms. Old features are a huge hidden tax on software releases. Sometimes the best things to do with old features is to cleanly sunset them.
+All features eventually go to the bit bucket in the sky. If your system has been around for a while, you start to accumulate old features. There are hidden costs to this:
+
+- It’s expensive to retain old features, as you have to QA and make sure they aren’t conflicting with new features.
+- You have to make sure these old features work on new platforms.
+
+Sometimes the best thing to do with old features is to cleanly sunset them.
