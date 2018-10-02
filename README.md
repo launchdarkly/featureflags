@@ -35,7 +35,6 @@ LaunchDarkly provides feature flag SDKs for
 * [Node.JS](http://docs.launchdarkly.com/docs/node-sdk-reference)
 * [.NET](http://docs.launchdarkly.com/docs/dotnet-sdk-reference)
 * [Ruby](http://docs.launchdarkly.com/docs/ruby-sdk-reference)
-* [Python Twisted](http://docs.launchdarkly.com/docs/python-twisted-sdk-reference)
 * [iOS](http://docs.launchdarkly.com/docs/ios-sdk-reference)
 * [Android](http://docs.launchdarkly.com/docs/android-sdk-reference)
 
@@ -55,7 +54,7 @@ LaunchDarkly has numerous software integrations that are designed to make your e
 ## Community
 Our community is open to anyone with interest in feature flagging or dark launching software! Feel free to head to any of the following links for more information, and a warm welcome into the world of dark launching.
 * [Community Page](https://launchdarkly.com/community.html)
-* [San Francisco Dark Launching Meetup](http://www.meetup.com/San-Francisco-Dark-Launching-Meetup/)
+* [Test in Production Meetup](https://www.meetup.com/Test-in-Production/)
 * Twitter: [@LaunchDarkly](https://twitter.com/LaunchDarkly)
 
 ## Known issues
