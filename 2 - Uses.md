@@ -1,6 +1,6 @@
 ## Recommended uses and how they help
 
-#### [⬅︎ Previous](./1%20-%20Introduction.md) | [Table of Contents](./README.md) | [Next ➡︎](./3%20-%20Getting%20Started.md)
+#### [← Previous](./1%20-%20Introduction.md) | [Table of Contents](./README.md) | [Next →](./3%20-%20Getting%20Started.md)
 
 #### Early Access
 Run beta programs on your live application by explicitly including the people you want to see a new feature. Like lining up for a new movie coming out, people really want to see your new functionality. Whether it’s a person or organization or even country. It’s a common best practice to roll out to Canada before the United States or to New Zealand before Australia.
@@ -39,3 +39,5 @@ All features eventually go to the bit bucket in the sky. If your system has been
 - You have to make sure these old features work on new platforms.
 
 Sometimes the best thing to do with old features is to cleanly sunset them.
+
+#### [← Previous](./2%20-%20Uses.md) | [Table of Contents](./README.md) | [Next →](4%20-%20Cleaning%20Up.md)
