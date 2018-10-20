@@ -1,4 +1,7 @@
 ## Tips to reduce technical debt during implementation
+
+#### [← Previous](./3%20-%20Getting%20Started.md) | [Table of Contents](./README.md) | [Next →](5%20-%20Best%20Practices.md)
+
 #### Cleaning Code Patterns & Avoiding Technical Debt
 Increased technical debt is a common objection to implementing feature flags. Here’s our suggested approach for avoiding crufty if/then branches you’ll have to clean up later.
 
