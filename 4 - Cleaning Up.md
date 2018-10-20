@@ -1,4 +1,7 @@
 ## Tips to reduce technical debt during implementation
+
+#### [← Previous](./3%20-%20Getting%20Started.md) | [Table of Contents](./README.md) | [Next →](5%20-%20Best%20Practices.md)
+
 #### Cleaning Code Patterns & Avoiding Technical Debt
 Increased technical debt is a common objection to implementing feature flags. Here’s our suggested approach for avoiding crufty if/then branches you’ll have to clean up later.
 
@@ -41,3 +44,5 @@ The advantage to managing cleanup this way is that you do the work to remove the
 You will need to merge master back into your cleanup branch periodically, but that is usually easier than it would be to recall all of the context relating to the original change.
 
 This is certainly not the only way to handle this issue, but it seems to work pretty well for our team. I’d love to hear how your team handles cleaning up feature flags!
+
+#### [← Previous](./3%20-%20Getting%20Started.md) | [Table of Contents](./README.md) | [Next →](5%20-%20Best%20Practices.md)

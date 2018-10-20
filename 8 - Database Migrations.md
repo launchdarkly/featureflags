@@ -1,4 +1,7 @@
 ## Use feature flags to safely migrate databases.
+
+#### [← Previous](./7%20-%20Blue-Green%20Deployments.md) | [Table of Contents](./README.md) | [Next →](9%20-%20Implementation.md) 
+
 There comes a time in every developer’s life when you realize you need to migrate from one database to another. Maybe you started off with MongoDB, and it was great while your app was small, but it just can’t handle the load now that your made it to the big leagues. Maybe its time you bit the bullet and put that huge events database in DynamoDB (or Cassandra, or…).
 
 Moving databases is no small task, but it doesn’t need to be so risky.
@@ -75,3 +78,5 @@ You can now turn off the read and write flags for the old database, remove all r
 #### This Is Not Fiction
 
 I didn’t just make up this story to try to tell you how powerful feature flags are. We made this migration here at LaunchDarkly a few months ago, and it went very smoothly. There were one or two bugs that we found using this technique relating to unexpected user data. We saw the logged messages, tracked down the root cause and fixed it very easily, all without impacting our customers.
+
+#### [← Previous](./7%20-%20Blue-Green%20Deployments.md) | [Table of Contents](./README.md) | [Next →](9%20-%20Implementation.md) 

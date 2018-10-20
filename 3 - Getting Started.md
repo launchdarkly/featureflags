@@ -1,4 +1,7 @@
 ## Setting up your first feature flag
+
+#### [← Previous](./2%20-%20Uses.md) | [Table of Contents](./README.md) | [Next →](4%20-%20Cleaning%20Up.md)
+
 #### Early Access
 While starting to feature flag is easy, it becomes increasingly more complicated as you scale and habitualize the practice as a team. So, why put the effort into maintaining a feature flagging process to begin with? Here are some quotes from feature flag proponents:
 
@@ -28,3 +31,5 @@ When it comes to creating your first feature flag, there are several options. Op
 Feature flagging is a straightforward concept that becomes difficult to manage on an enterprise scale. It’s easy to manage one feature flag by modifying a configuration file, but when you have multiple feature flags across different environments, it’s harder to keep everyone in sync in a compliant fashion.
 
 At this point you may consider if a feature flagging system is the right path for your company. So, you must ask yourself the question - to build or to buy? The tradeoffs for each option depend on your resources, time, and internal expertise. Here is more details on the inputs and outputs you can expect when [making the build versus buy decision](http://blog.launchdarkly.com/buying-vs-building-a-feature-flagging-system/).
+
+#### [← Previous](./2%20-%20Uses.md) | [Table of Contents](./README.md) | [Next →](4%20-%20Cleaning%20Up.md)

@@ -1,4 +1,7 @@
 ## Some final considerations before you implement.
+
+#### [← Previous](./8%20-%20Database%20Migrations.md) | [Table of Contents](./README.md)
+
 Here are some tips to help you integrate feature flagging into your development process.
 
 Before you select a feature flagging method, you should:
@@ -25,3 +28,5 @@ Before you select a feature flagging method, you should:
 5. **Integration and Team Coordination** - Feature flag-driven development is both an engineering practice and a cultural shift for your teams. It is a practice that emphasizes team collaboration, feedback, and full release lifecycle management. Therefore, it is important that teams incorporation feature flag release strategy into their continuous delivery pipeline. This release strategy is a DevOps concept where teams integrate feature release planning into the development process. Instead of pushing a new feature to production and being done with it, developers integrate feature flags into the development lifecycle to control their releases. Broadly speaking, feature flagging is a way to control the visibility and on/off state of a particular feature by wrapping the code in a conditional. The process of flagging encourages developers to plan for the initial feature rollout, feature improvements based on user feedback, and overall feature adoption.
 
 Thanks for reading LaunchDarkly’s Guide to Feature Flagging! If you have any feedback, please reach out to us at info@launchdarkly.com. We’d love your help in making this even more complete and useful.
+
+#### [← Previous](./8%20-%20Database%20Migrations.md) | [Table of Contents](./README.md)
