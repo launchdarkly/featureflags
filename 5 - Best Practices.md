@@ -25,3 +25,5 @@ Many companies choose to give different members in their team different visibili
 
 #### Flag Statuses
 Flag statuses allow teams to manage both short and long-term flags, and know when flags are safe to remove. These statuses can be dynamically updated based on the flag’s usage. For example, if a flag was not used for over 7 days, then you could surface a status that would tell you that the flag is safe to remove from your code. These statuses give teams full visibility into their feature flag lifecycles, the ability to clean up flags that are obsolete, and know which features are rolled out.
+
+#### [← Previous](./4%20-%20Cleaning%20Up.md) | [Table of Contents](./README.md) | [Next →](6%20-%20Flags%20vs%20Branching.md)
