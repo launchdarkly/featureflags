@@ -1,6 +1,6 @@
 ## Setting up your first feature flag
 
-#### [⇐ Previous](./1 - Introduction.md) | [Table of Contents](./readme.md) | [Next ⇒](./3 - Getting Started.md)
+#### [⇐ Previous](./1%20-%20Introduction.md) | [Table of Contents](./readme.md) | [Next ⇒](./3%20-%20Getting%20Started.md)
 
 #### Early Access
 While starting to feature flag is easy, it becomes increasingly more complicated as you scale and habitualize the practice as a team. So, why put the effort into maintaining a feature flagging process to begin with? Here are some quotes from feature flag proponents:
