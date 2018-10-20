@@ -2,7 +2,6 @@
 
 #### [← Previous](./5%20-%20Best%20Practices.md) | [Table of Contents](./README.md) | [Next →](7%20-%20Blue-Green%20Deployments.md)
 
-
 Feature branching allows developers to effectively collaborate around a central code base by keeping all changes to a specific feature in its own branch. With the addition of feature flags, feature branching becomes even more powerful and faster by separating feature release management from code deployment.
 
 #### The Pains of Long-Lived Branching
@@ -42,3 +41,5 @@ Here are some great branching resources to check out:
 * [A Git Workflow Walkthrough – Feature Branches](https://bocoup.com/weblog/git-workflow-walkthrough-feature-branches)
 * [Branch Per Feature Guide](https://dev.acquia.com/blog/pragmatic-guide-branch-feature-git-branching-strategy)
 * [Atlassian Workflow Guidelines](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
+
+#### [← Previous](./5%20-%20Best%20Practices.md) | [Table of Contents](./README.md) | [Next →](7%20-%20Blue-Green%20Deployments.md)
