@@ -1,4 +1,7 @@
 ## Recommended uses and how they help
+
+#### [⬅︎ Previous](./1%20-%20Introduction.md) | [Table of Contents](./README.md) | [Next ➡︎](./3%20-%20Getting%20Started.md)
+
 #### Early Access
 Run beta programs on your live application by explicitly including the people you want to see a new feature. Like lining up for a new movie coming out, people really want to see your new functionality. Whether it’s a person or organization or even country. It’s a common best practice to roll out to Canada before the United States or to New Zealand before Australia.
 
