@@ -1,4 +1,7 @@
 ## Handling risk with proper release management.
+
+#### [← Previous](./7%20-%20Blue-Green%20Deployments.md) | [Table of Contents](./README.md) | [Next →](8%20-%20Database%20Migrations.md)
+
 #### Using feature flags for granular release control and risk mitigation for blue-green deployments
 
 Blue-green deployments have long been a proven technique to mitigate risk in software releases. By adding feature flags, developers are ushering in a new era of blue-green deployments, one with unprecedented granular control over feature releases. This article discusses how to effectively integrate feature flags into your blue-green deployment process.
