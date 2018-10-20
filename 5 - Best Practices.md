@@ -1,4 +1,7 @@
 ## Get the most from your flags with our best practices.
+
+#### [← Previous](./4%20-%20Cleaning%20Up.md) | [Table of Contents](./README.md) | [Next →](6%20-%20Flags%20vs%20Branching.md)
+
 Flags are helpful when you think about how they help YOU and your organization. Feature flags should be first-class objects, not just sit in a config file that only developers can access.
 
 #### Choose the Right Level of Flagging
