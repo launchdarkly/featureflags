@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://blog.launchdarkly.com/wp-content/uploads/2016/02/ld_logo_blue.png">
+  <img src="https://blog.launchdarkly.com/wp-content/uploads/2018/12/LaunchDarkly_Horizontal_Navy_1000x250.png" width="600px">
 </p>
 
 ### Table of Contents
