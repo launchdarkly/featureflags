@@ -34,7 +34,6 @@ Therefore, feature flagging does not replace branching, it is complementary and 
 
 Here are some great branching resources to check out:
 * [Git Workflows Guide](https://www.toptal.com/git/git-workflows-for-pros-a-good-git-guide)
-* [Branch Per Feature Guide](https://dev.acquia.com/blog/pragmatic-guide-branch-feature-git-branching-strategy)
 * [A Git Workflow Walkthrough – Feature Branches](https://bocoup.com/weblog/git-workflow-walkthrough-feature-branches)
 * [Branch Per Feature Guide](https://dev.acquia.com/blog/pragmatic-guide-branch-feature-git-branching-strategy)
 * [Atlassian Workflow Guidelines](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
