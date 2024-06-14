@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="http://blog.launchdarkly.com/wp-content/uploads/2016/02/ld_logo_blue.png">
-</p>
+> [!CAUTION]
+> This repository is archived. For up-to-date information on the topics covered here, visit [docs.launchdarkly.com](https://docs.launchdarkly.com/home).
+
+
 
 ### Table of Contents
 1. [Introduction](https://github.com/launchdarkly/featureflags/blob/master/1%20-%20Introduction.md)
